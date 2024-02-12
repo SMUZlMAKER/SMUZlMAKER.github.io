@@ -49,7 +49,7 @@ body.theme-dark {
     --hero-link-color: var(--primary-color);
     --hero-link-hover-color: var(--accent-color);
 
-    --hero-box-background-start-color: #FFB500;
+    --hero-box-background-start-color: #49fcd9;
     --hero-box-background-end-color: var(--accent-color);
 
     --section-title-color: var(--primary-color);
